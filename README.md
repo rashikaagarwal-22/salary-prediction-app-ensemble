@@ -1,4 +1,4 @@
-Salary Prediction Project
+#Salary Prediction Project
 
 ## Project Description
 This project aims to predict an individual's salary based on various features such as age, gender, education level, job title, and years of experience. A machine learning model, specifically a Random Forest Regressor, is trained and evaluated to achieve this prediction.
